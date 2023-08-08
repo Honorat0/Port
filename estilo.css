@@ -1,0 +1,14 @@
+/* Reset de estilos */
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background: rgb(54, 54, 54, 1.0);
+}
+
+/* ... (continua o código) ... */
+
+.project-item:hover .overlay-text {
+    background-color: #fff;
+    color: #000;
+}
